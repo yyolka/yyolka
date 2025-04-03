@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left" font face="Bold 700">📚 Learning in Bauman Moscow State Technical University (2024-2028) on Applied Informatics<br>📊 Like System Analitics (SA)<br>💟 Coffee and cat lover<br>🕹 Gaming to relax</p>
+<p align="left"  style="font-family: 'Lucida Console'">📚 Learning in Bauman Moscow State Technical University (2024-2028) on Applied Informatics<br>📊 Like System Analitics (SA)<br>💟 Coffee and cat lover<br>🕹 Gaming to relax</p>
 
 ###
 
