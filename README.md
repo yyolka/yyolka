@@ -1,13 +1,13 @@
-<h2 align="left">Hello ^^ I'm Anel  ✨✨</h2>
+<h2 align="center">Hello ^^ I'm Anel  ✨✨</h2>
 
 ###
 
-<p align="left"  style="font-family: 'Lucida Console'">Bauman Moscow State Technical University (2024-2028) on Applied Informatics<br>(SA)<br>coffee and cat lover<br></p>
+<p align="center"  style="font-family: 'Lucida Console'">Bauman Moscow State Technical University (2024-2028) on Applied Informatics<br>(SA)<br>coffee and cat lover<br></p>
 
 ###
 
 <div align="center">
-<img src="[https://tenor.com/uzExo5ZvLaO.gif](https://tenor.com/ru/view/apothecary-diaries-apothecary-diaries-mao-mao-maomao-gif-17131046529508492836)" width="100"/>
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ViMHo2dXR6aTh5OHJzbWk0Mm04NnJrMmQwMzBoYTBzaGNkZjd4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GDWhpl6PTEbkI/giphy.gif" width="400"/>
   </div>
 
 ###
