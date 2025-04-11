@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-<img src="https://tenor.com/uzExo5ZvLaO.gif" />
+<img src="[https://tenor.com/uzExo5ZvLaO.gif](https://tenor.com/ru/view/apothecary-diaries-apothecary-diaries-mao-mao-maomao-gif-17131046529508492836)" width="100"/>
   </div>
 
 ###
